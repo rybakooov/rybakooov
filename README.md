@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://raw.githubusercontent.com/rybakooov/rybakov/master/assets/images/pixel-man.gif)
+![alt text](https://raw.githubusercontent.com/rybakooov/rybakov/master/assets/images/pixel-man.gif =400x)
 
 Here are some ideas to get you started:
 
