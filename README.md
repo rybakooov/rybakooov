@@ -1,4 +1,4 @@
-### Hi there 👋
+### Всем привет! 👋
 
 ![pixel-man](https://raw.githubusercontent.com/rybakooov/rybakov/master/assets/images/pixel-man.gif)
 
